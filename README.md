@@ -1,1 +1,1 @@
-# golang-retry
+# Mitz-IT Go - Retry Policy
